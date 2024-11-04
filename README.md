@@ -22,6 +22,6 @@
 - **언어**: JavaScript, HTML, CSS, Python
 - **프레임워크**: Leaflet.js
 - **서버**: Flask, GCP
-- **데이터베이스**: Notion 내 파이썬 데이터프레임과 유사한 형태로 저장된 회사 정보
+- **데이터베이스**: Notion 내 파이썬 데이터프레임과 유사한 형태의 표
 ![image](https://github.com/user-attachments/assets/8472f95e-38c0-45d6-9d10-12a5f5db91bc)
 
