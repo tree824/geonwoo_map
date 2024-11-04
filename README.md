@@ -1,5 +1,6 @@
 # geonwoo map : 타겟 회사 정보를 담은 웹지도 제작 프로젝트 
-![image](https://github.com/user-attachments/assets/9a365105-22ed-47d3-a03c-89fd745ae843)
+![image](https://github.com/user-attachments/assets/2e571ed9-2738-4625-8755-81c3217db673)
+
 
 ## 소개
 
@@ -8,11 +9,14 @@
 ## 기능
 
 - **검색 기능**: 검색이 가능하도록 하여 관심 업체를 검색해 지도에서 선택할 수 있도록 구현하였습니다.
- ![image alt="키워드 [현대] 검색" width="500" height="300"](https://github.com/user-attachments/assets/33868d9d-c81f-41b1-865a-f227968c94b4)
- ![image alt="키워드 [엘지] 검색" width="500" height="300"](https://github.com/user-attachments/assets/93db8983-62d6-4358-b0be-3f9c8ddebebd)
+![image](https://github.com/user-attachments/assets/f6304bf7-4fb3-41a5-be74-99625f0a7ae6)
+
+ ![image](https://github.com/user-attachments/assets/4b0b6e8c-9f41-42d8-a1ce-b44bd3733e8e)
+
 - **인터랙티브 맵**: Leaflet을 사용하여 인터랙티브 맵으로 구현하였습니다.
 - **툴팁의 회사 이름에 하이퍼링크 처리하여 노션 DB와 연동**: 마커의 툴팁에 회사 이름을 노션의 회사 정보와 하이퍼링크로 연결하여 마커의 회사 이름 클릭 시 노션에 기록된 정보를 바로 열람 가능하도록 구현하였습니다.
- ![image alt="대체 텍스트" width="500" height="300"](https://github.com/user-attachments/assets/c24ce3bf-ab53-43b6-b41e-15dcef6a76cc)
+![image](https://github.com/user-attachments/assets/8a05aa5f-1164-4ee5-aeb8-0d15eb2c2537)
+
 
 - **중요도에 따른 마커 색상 변화 및 범례 표시 기능** : 중요도가 높을 수록 짙은 색 마커 색상을 사용하였으며, 중요도 5 미만 시 회색으로 일괄 처리하여 시각화하였습니다.
 
