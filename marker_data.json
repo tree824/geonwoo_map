@@ -1,0 +1,821 @@
+[
+    {
+        "name": "콘티넨탈오토모티브코리아",
+        "lat": 37.40043,
+        "lon": 127.1102,
+        "popup": "<a href=\"https://www.notion.so/30342795801348e2a773a12e174537ae\" target=\"_blank\">콘티넨탈오토모티브코리아</a>",
+        "color": "red"
+    },
+    {
+        "name": "모트렉스",
+        "lat": 37.37942,
+        "lon": 127.117,
+        "popup": "<a href=\"https://www.notion.so/ec5cece2be924730a0dde4ac4ddbfdd8\" target=\"_blank\">모트렉스</a>",
+        "color": "red"
+    },
+    {
+        "name": "(주)텔레칩스",
+        "lat": 37.40671,
+        "lon": 127.0873,
+        "popup": "<a href=\"https://www.notion.so/c09f18b105964e64bfa6eea4448d46c0\" target=\"_blank\">(주)텔레칩스</a>",
+        "color": "red"
+    },
+    {
+        "name": "현대오토에버(주)",
+        "lat": 37.507,
+        "lon": 127.0587,
+        "popup": "<a href=\"https://www.notion.so/2ab60b737d214f13aebc28ff1857e334\" target=\"_blank\">현대오토에버(주)</a>",
+        "color": "red"
+    },
+    {
+        "name": "현대자동차(주)",
+        "lat": 37.46436,
+        "lon": 127.0427,
+        "popup": "<a href=\"https://www.notion.so/2bd689c96f9643fcb802b20d7a74df3a\" target=\"_blank\">현대자동차(주)</a>",
+        "color": "red"
+    },
+    {
+        "name": "로스웰",
+        "lat": 37.52611,
+        "lon": 126.9187,
+        "popup": "<a href=\"https://www.notion.so/d36e1814b50c49188bb109ecb6a18bb0\" target=\"_blank\">로스웰</a>",
+        "color": "red"
+    },
+    {
+        "name": "(주)켐트로닉스",
+        "lat": 37.40017,
+        "lon": 127.1123,
+        "popup": "<a href=\"https://www.notion.so/d498d519cf3e4a41abd053624b21b652\" target=\"_blank\">(주)켐트로닉스</a>",
+        "color": "lightred"
+    },
+    {
+        "name": "보스반도체",
+        "lat": 37.40523,
+        "lon": 127.1011,
+        "popup": "<a href=\"https://www.notion.so/10cf759a3e3f429a9afdbc7b3058a3cd\" target=\"_blank\">보스반도체</a>",
+        "color": "lightred"
+    },
+    {
+        "name": "(주)세코닉스",
+        "lat": 37.30034,
+        "lon": 127.0718,
+        "popup": "<a href=\"https://www.notion.so/182fa075dbea4d03bfe2550fab7f332c\" target=\"_blank\">(주)세코닉스</a>",
+        "color": "lightred"
+    },
+    {
+        "name": "에이치엘만도(주)",
+        "lat": 36.95525,
+        "lon": 126.8553,
+        "popup": "<a href=\"https://www.notion.so/87df2a65e21d4b7f8ced539eb469ae0d\" target=\"_blank\">에이치엘만도(주)</a>",
+        "color": "lightred"
+    },
+    {
+        "name": "티맵모빌리티",
+        "lat": 37.5651,
+        "lon": 126.987,
+        "popup": "<a href=\"https://www.notion.so/eeeeaf64f32c4224abccd47c47e6a1b7\" target=\"_blank\">티맵모빌리티</a>",
+        "color": "lightred"
+    },
+    {
+        "name": "(주)긴트",
+        "lat": 37.40054,
+        "lon": 127.1013,
+        "popup": "<a href=\"https://www.notion.so/b591cd3f410c4e66bd6de416dbb8d0cb\" target=\"_blank\">(주)긴트</a>",
+        "color": "lightred"
+    },
+    {
+        "name": "덴소코리아(주)",
+        "lat": 35.15894,
+        "lon": 128.5516,
+        "popup": "<a href=\"https://www.notion.so/b8b26ee2d39f4f8b8e737a4c40f129d2\" target=\"_blank\">덴소코리아(주)</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "로버트보쉬코리아",
+        "lat": 36.44208,
+        "lon": 127.4034,
+        "popup": "<a href=\"https://www.notion.so/e7111cc2999a4b7b8260036636a34895\" target=\"_blank\">로버트보쉬코리아</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "디젠",
+        "lat": 35.82358,
+        "lon": 128.5111,
+        "popup": "<a href=\"https://www.notion.so/d8740d014c914c688973c383d6d2a994\" target=\"_blank\">디젠</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "현대케피코",
+        "lat": 37.35223,
+        "lon": 126.9587,
+        "popup": "<a href=\"https://www.notion.so/c9dfc277825f460cab42016f51ca1020\" target=\"_blank\">현대케피코</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "사피온코리아",
+        "lat": 37.40349,
+        "lon": 127.1016,
+        "popup": "<a href=\"https://www.notion.so/571b31d75b8a430bacc4222c610f4d6f\" target=\"_blank\">사피온코리아</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "드림에이스",
+        "lat": 37.54239,
+        "lon": 127.0486,
+        "popup": "<a href=\"https://www.notion.so/19c5b99dfc064e95aead5421a26612dc\" target=\"_blank\">드림에이스</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "현대위아(주)",
+        "lat": 37.32367,
+        "lon": 126.9523,
+        "popup": "<a href=\"https://www.notion.so/1ef20d9c981340f6a73def9778a79ddc\" target=\"_blank\">현대위아(주)</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "(주)코아시아넥셀",
+        "lat": 37.48586,
+        "lon": 127.1148,
+        "popup": "<a href=\"https://www.notion.so/d4145beda1fa425d9f5755128899a69b\" target=\"_blank\">(주)코아시아넥셀</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "아이에이",
+        "lat": 37.4884,
+        "lon": 127.1218,
+        "popup": "<a href=\"https://www.notion.so/4114320d27ad448890c7adbca0e68780\" target=\"_blank\">아이에이</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "태양금속공업(주)",
+        "lat": 37.32103,
+        "lon": 126.765,
+        "popup": "<a href=\"https://www.notion.so/353ee00bd32e4c519f63c8fa276ee895\" target=\"_blank\">태양금속공업(주)</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "SNT모티브",
+        "lat": 35.30059,
+        "lon": 129.1368,
+        "popup": "<a href=\"https://www.notion.so/SNT-322f2287f4cb46b48ae110b470f54542\" target=\"_blank\">SNT모티브</a>",
+        "color": "yellow"
+    },
+    {
+        "name": "유라코퍼레이션",
+        "lat": 37.40277,
+        "lon": 127.1081,
+        "popup": "<a href=\"https://www.notion.so/cc718c849ebf47b5b06a935134633d12?pvs=25\" target=\"_blank\">유라코퍼레이션</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "발레오오토모티브코리아",
+        "lat": 37.32452,
+        "lon": 126.7808,
+        "popup": "<a href=\"https://www.notion.so/ee444cfce47b475dab0f4ee6331e6318\" target=\"_blank\">발레오오토모티브코리아</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "모베이스전자",
+        "lat": 37.23743,
+        "lon": 126.9846,
+        "popup": "<a href=\"https://www.notion.so/961b07ef010543c1b2ad3986d9705767\" target=\"_blank\">모베이스전자</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "피에이치에이(구 평화정공)",
+        "lat": 37.29384,
+        "lon": 127.0494,
+        "popup": "<a href=\"https://www.notion.so/461c372bddf34840bc2ec763c08f9e62\" target=\"_blank\">피에이치에이(구 평화정공)</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "(주)넥스트칩",
+        "lat": 37.40047,
+        "lon": 127.1068,
+        "popup": "<a href=\"https://www.notion.so/a0781917a543444a9384f320f2410125\" target=\"_blank\">(주)넥스트칩</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "센서텍(주)",
+        "lat": 37.56322,
+        "lon": 126.8367,
+        "popup": "<a href=\"https://www.notion.so/d44f7d05249b4cad944562090c9a4f9f\" target=\"_blank\">센서텍(주)</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "LX세미콘",
+        "lat": 37.48527,
+        "lon": 127.0366,
+        "popup": "<a href=\"https://www.notion.so/LX-ff01de496afb46be874713e9b3be63b2\" target=\"_blank\">LX세미콘</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "(주)네오티스",
+        "lat": 37.47684,
+        "lon": 126.9765,
+        "popup": "<a href=\"https://www.notion.so/5a33622be27a4edd92f50aaa9d53a3ce\" target=\"_blank\">(주)네오티스</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "덕일산업",
+        "lat": 37.1821,
+        "lon": 127.0877,
+        "popup": "<a href=\"https://www.notion.so/5da956914bb64cffa0ce2591cd8f4aa0\" target=\"_blank\">덕일산업</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "우리산업홀딩스(주)",
+        "lat": 37.24955,
+        "lon": 127.1308,
+        "popup": "<a href=\"https://www.notion.so/75e55712d1b941c2b255575f7c55cc2a\" target=\"_blank\">우리산업홀딩스(주)</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "이타스코리아(주)",
+        "lat": 37.40047,
+        "lon": 127.1068,
+        "popup": "<a href=\"https://www.notion.so/f612db9ee1a744d3aa80b0c50ae28e40\" target=\"_blank\">이타스코리아(주)</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "(주)LG에너지솔루션",
+        "lat": 37.52519,
+        "lon": 126.9291,
+        "popup": "<a href=\"https://www.notion.so/LG-0132f967eb9c4ac1876601926907661d\" target=\"_blank\">(주)LG에너지솔루션</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "화신",
+        "lat": 35.92773,
+        "lon": 128.9444,
+        "popup": "<a href=\"https://www.notion.so/77afdf31bf29442bb1301fe3af852ee2\" target=\"_blank\">화신</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "아진산업",
+        "lat": 35.86832,
+        "lon": 128.8367,
+        "popup": "<a href=\"https://www.notion.so/9e74c73715914643886b612633b01bc8\" target=\"_blank\">아진산업</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "대우전자부품(주)",
+        "lat": 35.61175,
+        "lon": 126.8435,
+        "popup": "<a href=\"https://www.notion.so/c3bf1260efac4f598a3aa7e93ddaaf61\" target=\"_blank\">대우전자부품(주)</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "트루윈",
+        "lat": 36.39286,
+        "lon": 127.4034,
+        "popup": "<a href=\"https://www.notion.so/3aca50e714dd43569a95181f3a8e2229\" target=\"_blank\">트루윈</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "우리산업",
+        "lat": 37.24955,
+        "lon": 127.1308,
+        "popup": "<a href=\"https://www.notion.so/82c378151afb4c7393db8e61ec124e98\" target=\"_blank\">우리산업</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "모토닉",
+        "lat": 37.56967,
+        "lon": 126.9822,
+        "popup": "<a href=\"https://www.notion.so/47bd7a773e3e43ed96a6e9ece1a0f1a1\" target=\"_blank\">모토닉</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "인팩",
+        "lat": 37.51076,
+        "lon": 127.1129,
+        "popup": "<a href=\"https://www.notion.so/745e2290b17743bb9919b733a4deb28c\" target=\"_blank\">인팩</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "대원산업",
+        "lat": 37.31273,
+        "lon": 126.7818,
+        "popup": "<a href=\"https://www.notion.so/860cb8cb98a84779911efb2fda5703b0\" target=\"_blank\">대원산업</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "효성전기",
+        "lat": 35.32475,
+        "lon": 129.2566,
+        "popup": "<a href=\"https://www.notion.so/0dcb0f821a0a4751a79db83025221433\" target=\"_blank\">효성전기</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "코렌스",
+        "lat": 35.38227,
+        "lon": 129.0195,
+        "popup": "<a href=\"https://www.notion.so/2368494afbbc406a905c26baccf139bd\" target=\"_blank\">코렌스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "모토닉스",
+        "lat": 37.13225,
+        "lon": 126.9862,
+        "popup": "<a href=\"https://www.notion.so/6eaff73785c6407c9ff4175973a367aa\" target=\"_blank\">모토닉스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "네오펙트",
+        "lat": 37.41213,
+        "lon": 127.095,
+        "popup": "<a href=\"https://www.notion.so/ff43d47557a244ddaf2f6373e2d3f3f2\" target=\"_blank\">네오펙트</a>",
+        "color": "gray"
+    },
+    {
+        "name": "두원중공업",
+        "lat": 37.06492,
+        "lon": 127.4241,
+        "popup": "<a href=\"https://www.notion.so/7453bc2df6894481b0c49e7617c7e9d7\" target=\"_blank\">두원중공업</a>",
+        "color": "gray"
+    },
+    {
+        "name": "글로우원",
+        "lat": 37.22173,
+        "lon": 127.0737,
+        "popup": "<a href=\"https://www.notion.so/570869dce8e3415aa5532124b989a5e5\" target=\"_blank\">글로우원</a>",
+        "color": "gray"
+    },
+    {
+        "name": "한온시스템(주)",
+        "lat": 36.43715,
+        "lon": 127.4088,
+        "popup": "<a href=\"https://www.notion.so/bdb178f3d1c342d49b4f14d2a645eb25\" target=\"_blank\">한온시스템(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "(주)모토텍",
+        "lat": 37.13188,
+        "lon": 126.9864,
+        "popup": "<a href=\"https://www.notion.so/8ee5dbde648a450db06b3f8ad6ade60d\" target=\"_blank\">(주)모토텍</a>",
+        "color": "gray"
+    },
+    {
+        "name": "다믈파워반도체(유)",
+        "lat": 37.40188,
+        "lon": 126.9667,
+        "popup": "<a href=\"https://www.notion.so/83dea7cf685a415b9aae1c43a6c61c35\" target=\"_blank\">다믈파워반도체(유)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "에스트라오토모티브시스템(주)",
+        "lat": 35.73365,
+        "lon": 128.4503,
+        "popup": "<a href=\"https://www.notion.so/b95ad6274eac49d9967c49e9403cd18e\" target=\"_blank\">에스트라오토모티브시스템(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "(주)세온이앤에스",
+        "lat": 37.47609,
+        "lon": 126.8801,
+        "popup": "<a href=\"https://www.notion.so/b1ac9b12a38d4eb793c50a4e7e0522b4\" target=\"_blank\">(주)세온이앤에스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "대동도어",
+        "lat": 37.36112,
+        "lon": 126.6531,
+        "popup": "<a href=\"https://www.notion.so/ec687d855bee4fcca1b4fbf6817f0cc6\" target=\"_blank\">대동도어</a>",
+        "color": "gray"
+    },
+    {
+        "name": "럭스소프트코리아(유)",
+        "lat": 37.52498,
+        "lon": 126.9253,
+        "popup": "<a href=\"https://www.notion.so/04385f5a47914e9e80c5318cb2e8b9cf\" target=\"_blank\">럭스소프트코리아(유)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "상신브레이크(주)",
+        "lat": 35.67949,
+        "lon": 128.4598,
+        "popup": "<a href=\"https://www.notion.so/4c7e72355b02494991bb8a94dd1cf517\" target=\"_blank\">상신브레이크(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "영화테크",
+        "lat": 37.28002,
+        "lon": 127.1194,
+        "popup": "<a href=\"https://www.notion.so/90059c68f8de456eb0ed1bfc3f4e5c04\" target=\"_blank\">영화테크</a>",
+        "color": "gray"
+    },
+    {
+        "name": "(주)스트라드비젼",
+        "lat": 37.50391,
+        "lon": 127.0252,
+        "popup": "<a href=\"https://www.notion.so/9739ca6d05e545758d4343dd608ac717\" target=\"_blank\">(주)스트라드비젼</a>",
+        "color": "gray"
+    },
+    {
+        "name": "(주)모플랫",
+        "lat": 35.14828,
+        "lon": 129.0654,
+        "popup": "<a href=\"https://www.notion.so/d8fb991389f045f1a719a8a9037082aa\" target=\"_blank\">(주)모플랫</a>",
+        "color": "gray"
+    },
+    {
+        "name": "세방전지",
+        "lat": 37.50377,
+        "lon": 127.0489,
+        "popup": "<a href=\"https://www.notion.so/697d744fdbc5427db3d8606406954414\" target=\"_blank\">세방전지</a>",
+        "color": "gray"
+    },
+    {
+        "name": "서연이화",
+        "lat": 37.40132,
+        "lon": 126.9648,
+        "popup": "<a href=\"https://www.notion.so/19c0177068b442e3b80c5e79cb5fe5cc\" target=\"_blank\">서연이화</a>",
+        "color": "gray"
+    },
+    {
+        "name": "코리아에프티",
+        "lat": 37.01065,
+        "lon": 127.1525,
+        "popup": "<a href=\"https://www.notion.so/89fcf1480a5143d6ab17631f44008c04\" target=\"_blank\">코리아에프티</a>",
+        "color": "gray"
+    },
+    {
+        "name": "경창산업",
+        "lat": 35.83445,
+        "lon": 128.5058,
+        "popup": "<a href=\"https://www.notion.so/bbb28d9ba1414ba284337a6db8a7a9a3\" target=\"_blank\">경창산업</a>",
+        "color": "gray"
+    },
+    {
+        "name": "계양전기",
+        "lat": 37.50682,
+        "lon": 127.058,
+        "popup": "<a href=\"https://www.notion.so/24faf031238b4dfc9890ad0b516a9f78\" target=\"_blank\">계양전기</a>",
+        "color": "gray"
+    },
+    {
+        "name": "우신시스템",
+        "lat": 37.52291,
+        "lon": 126.8835,
+        "popup": "<a href=\"https://www.notion.so/e421d0f417784f869260f59a779eb5de\" target=\"_blank\">우신시스템</a>",
+        "color": "gray"
+    },
+    {
+        "name": "유라테크",
+        "lat": 36.64302,
+        "lon": 127.2748,
+        "popup": "<a href=\"https://www.notion.so/dce797bdb42f4265bb0670e59477f90b\" target=\"_blank\">유라테크</a>",
+        "color": "gray"
+    },
+    {
+        "name": "인지컨트롤스",
+        "lat": 37.33519,
+        "lon": 126.7234,
+        "popup": "<a href=\"https://www.notion.so/6ef363dd189d46b3b709a95c1913268d\" target=\"_blank\">인지컨트롤스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "모베이스",
+        "lat": 37.23743,
+        "lon": 126.9846,
+        "popup": "<a href=\"https://www.notion.so/ad9fe9ff919b44ce853c5ed1ebfedf80\" target=\"_blank\">모베이스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "SJM",
+        "lat": 37.3047,
+        "lon": 126.7779,
+        "popup": "<a href=\"https://www.notion.so/SJM-31bab66186214c6798bc694029a42010\" target=\"_blank\">SJM</a>",
+        "color": "gray"
+    },
+    {
+        "name": "지엠비코리아",
+        "lat": 35.20404,
+        "lon": 128.6795,
+        "popup": "<a href=\"https://www.notion.so/373c08c82bbb4b8e8e6a787d7b9e8bdd\" target=\"_blank\">지엠비코리아</a>",
+        "color": "gray"
+    },
+    {
+        "name": "티에이치엔",
+        "lat": 35.84898,
+        "lon": 128.5017,
+        "popup": "<a href=\"https://www.notion.so/a74ece9372d64a439bd81a9323544259\" target=\"_blank\">티에이치엔</a>",
+        "color": "gray"
+    },
+    {
+        "name": "유니테크노",
+        "lat": 35.0892,
+        "lon": 128.9709,
+        "popup": "<a href=\"https://www.notion.so/bee8a76466144c2cb706146d6bcfb1b0\" target=\"_blank\">유니테크노</a>",
+        "color": "gray"
+    },
+    {
+        "name": "케이퓨얼셀",
+        "lat": 37.28002,
+        "lon": 127.1194,
+        "popup": "<a href=\"https://www.notion.so/d78a67dc38a54e41a6e599d5093fe766\" target=\"_blank\">케이퓨얼셀</a>",
+        "color": "gray"
+    },
+    {
+        "name": "유니크",
+        "lat": 35.28825,
+        "lon": 128.7746,
+        "popup": "<a href=\"https://www.notion.so/7736e953865d450d8e345ff35039d56f\" target=\"_blank\">유니크</a>",
+        "color": "gray"
+    },
+    {
+        "name": "아이탑스오토모티브(주)",
+        "lat": 37.2367,
+        "lon": 126.9834,
+        "popup": "<a href=\"https://www.notion.so/b4e2a21b980345ee86738bde8dcd36b0\" target=\"_blank\">아이탑스오토모티브(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "평화발레오",
+        "lat": 35.67898,
+        "lon": 128.4514,
+        "popup": "<a href=\"https://www.notion.so/f537ee97c6234719991afe12ee6e6c96\" target=\"_blank\">평화발레오</a>",
+        "color": "gray"
+    },
+    {
+        "name": "세솔테크",
+        "lat": 37.39655,
+        "lon": 126.964,
+        "popup": "<a href=\"https://www.notion.so/c5cb2c0c64e24812ae6ae07e76080495\" target=\"_blank\">세솔테크</a>",
+        "color": "gray"
+    },
+    {
+        "name": "한솔테크닉스(주)",
+        "lat": 37.56565,
+        "lon": 126.9881,
+        "popup": "<a href=\"https://www.notion.so/af9624f8475d4570aca946a82e431b82\" target=\"_blank\">한솔테크닉스(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "(주)두원전자",
+        "lat": 36.87788,
+        "lon": 126.9271,
+        "popup": "<a href=\"https://www.notion.so/9fca3202033040d0a17d441bf1a9931a\" target=\"_blank\">(주)두원전자</a>",
+        "color": "gray"
+    },
+    {
+        "name": "엘지마그나이파워트레인",
+        "lat": 37.55375,
+        "lon": 126.6426,
+        "popup": "<a href=\"https://www.notion.so/403fae40bca845288498dfe0ba72f521\" target=\"_blank\">엘지마그나이파워트레인</a>",
+        "color": "gray"
+    },
+    {
+        "name": "아이모스시스템㈜",
+        "lat": 37.48023,
+        "lon": 126.881,
+        "popup": "<a href=\"https://www.notion.so/d2edf011a0a54ac788067e6259007e8b\" target=\"_blank\">아이모스시스템㈜</a>",
+        "color": "gray"
+    },
+    {
+        "name": "(주)니프코 코리아",
+        "lat": 36.91562,
+        "lon": 127.0588,
+        "popup": "<a href=\"https://www.notion.so/ea892ef517df4b22b8c17dbcd762e588\" target=\"_blank\">(주)니프코 코리아</a>",
+        "color": "gray"
+    },
+    {
+        "name": "동아전기부품(주)",
+        "lat": 37.20534,
+        "lon": 127.1031,
+        "popup": "<a href=\"https://www.notion.so/3de6b3badff542ada0e936a6160d9788\" target=\"_blank\">동아전기부품(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "지티시스템(주)",
+        "lat": 37.28044,
+        "lon": 127.1177,
+        "popup": "<a href=\"https://www.notion.so/178255580b7c46dd932f73a8166721c9\" target=\"_blank\">지티시스템(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "피에이치에이에차(유)",
+        "lat": 36.73764,
+        "lon": 127.2681,
+        "popup": "<a href=\"https://www.notion.so/a119e21a451049a69d53a7f5ea44d2e4\" target=\"_blank\">피에이치에이에차(유)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "두원공조",
+        "lat": 36.86694,
+        "lon": 127.0317,
+        "popup": "<a href=\"https://www.notion.so/61713b1438824a98a24ee76ff1454ecf\" target=\"_blank\">두원공조</a>",
+        "color": "gray"
+    },
+    {
+        "name": "에이치엘클레무브",
+        "lat": 37.37913,
+        "lon": 126.6388,
+        "popup": "<a href=\"https://www.notion.so/715212f6c64141f0bba232800d66bec7\" target=\"_blank\">에이치엘클레무브</a>",
+        "color": "gray"
+    },
+    {
+        "name": "에스엘",
+        "lat": 35.86786,
+        "lon": 128.8226,
+        "popup": "<a href=\"https://www.notion.so/eb3fdedd6ade4a9c9ac9de5c963b1a78\" target=\"_blank\">에스엘</a>",
+        "color": "gray"
+    },
+    {
+        "name": "성우하이텍",
+        "lat": 35.32306,
+        "lon": 129.1926,
+        "popup": "<a href=\"https://www.notion.so/1a0a9f41f8e04bfab1fb7a065c60d8b6\" target=\"_blank\">성우하이텍</a>",
+        "color": "gray"
+    },
+    {
+        "name": "일진하이솔루스",
+        "lat": 35.94582,
+        "lon": 127.1295,
+        "popup": "<a href=\"https://www.notion.so/b26014acf64a45e5ac96f98cb9acea5f\" target=\"_blank\">일진하이솔루스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "디아이씨",
+        "lat": 35.70572,
+        "lon": 129.2071,
+        "popup": "<a href=\"https://www.notion.so/58e4bd2254904f81a2ab473206e8c2cc\" target=\"_blank\">디아이씨</a>",
+        "color": "gray"
+    },
+    {
+        "name": "한국단자공업",
+        "lat": 37.38528,
+        "lon": 126.6555,
+        "popup": "<a href=\"https://www.notion.so/b50a1d0b91e64eca98c0ea4a3394c7fd\" target=\"_blank\">한국단자공업</a>",
+        "color": "gray"
+    },
+    {
+        "name": "DN오토모티브",
+        "lat": 35.36963,
+        "lon": 129.0659,
+        "popup": "<a href=\"https://www.notion.so/DN-889a68bd007d4e3fae43ef66c91016cb\" target=\"_blank\">DN오토모티브</a>",
+        "color": "gray"
+    },
+    {
+        "name": "대원강업",
+        "lat": 36.89743,
+        "lon": 127.2008,
+        "popup": "<a href=\"https://www.notion.so/2635e7e8db094904be4c210e2d448603\" target=\"_blank\">대원강업</a>",
+        "color": "gray"
+    },
+    {
+        "name": "(주)오스템",
+        "lat": 36.75636,
+        "lon": 127.2928,
+        "popup": "<a href=\"https://www.notion.so/c0caf1e0bafe4dbca29d84251916f6e9\" target=\"_blank\">(주)오스템</a>",
+        "color": "gray"
+    },
+    {
+        "name": "삼보모터스",
+        "lat": 35.83366,
+        "lon": 128.5168,
+        "popup": "<a href=\"https://www.notion.so/daae1c34d6d94bcd9dbc603b0ec6010f\" target=\"_blank\">삼보모터스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "우수AMS",
+        "lat": 35.20741,
+        "lon": 128.639,
+        "popup": "<a href=\"https://www.notion.so/AMS-e1f8e3cefb314b90b42422b06639b252\" target=\"_blank\">우수AMS</a>",
+        "color": "gray"
+    },
+    {
+        "name": "평화산업",
+        "lat": 35.7382,
+        "lon": 128.4602,
+        "popup": "<a href=\"https://www.notion.so/de29cc9f37704ede9f535ad9b5bdccc7\" target=\"_blank\">평화산업</a>",
+        "color": "gray"
+    },
+    {
+        "name": "에스제이지세종",
+        "lat": 35.56918,
+        "lon": 129.3704,
+        "popup": "<a href=\"https://www.notion.so/5ad599131a77421ca7e56965bd40a777\" target=\"_blank\">에스제이지세종</a>",
+        "color": "gray"
+    },
+    {
+        "name": "대우부품(대우전자부품(주))",
+        "lat": 35.61175,
+        "lon": 126.8435,
+        "popup": "<a href=\"https://www.notion.so/2af4a00838d449dbac9edb8c430b7dc3\" target=\"_blank\">대우부품(대우전자부품(주))</a>",
+        "color": "gray"
+    },
+    {
+        "name": "삼성공조",
+        "lat": 35.21745,
+        "lon": 128.6672,
+        "popup": "<a href=\"https://www.notion.so/4b84a44936444817b5e32519b0bbc0ce\" target=\"_blank\">삼성공조</a>",
+        "color": "gray"
+    },
+    {
+        "name": "성창오토텍",
+        "lat": 37.04254,
+        "lon": 127.1195,
+        "popup": "<a href=\"https://www.notion.so/7be716c45add4a36bf6c26b889a8bf47\" target=\"_blank\">성창오토텍</a>",
+        "color": "gray"
+    },
+    {
+        "name": "새론오토모티브",
+        "lat": 36.76727,
+        "lon": 127.2783,
+        "popup": "<a href=\"https://www.notion.so/5439a753ec4c4acdbd45e267891f9f7c\" target=\"_blank\">새론오토모티브</a>",
+        "color": "gray"
+    },
+    {
+        "name": "케이비오토텍",
+        "lat": 36.80068,
+        "lon": 127.087,
+        "popup": "<a href=\"https://www.notion.so/350f8b3c2f0249169821d25f70df6f8b\" target=\"_blank\">케이비오토텍</a>",
+        "color": "gray"
+    },
+    {
+        "name": "에이유",
+        "lat": 36.36254,
+        "lon": 127.3582,
+        "popup": "<a href=\"https://www.notion.so/4a67c576d98e4b619478b484244ac4ea\" target=\"_blank\">에이유</a>",
+        "color": "gray"
+    },
+    {
+        "name": "하이젠알앤엠(주)",
+        "lat": 35.20858,
+        "lon": 128.6729,
+        "popup": "<a href=\"https://www.notion.so/922ffb7b7315495a88f1cdf6881dda25\" target=\"_blank\">하이젠알앤엠(주)</a>",
+        "color": "gray"
+    },
+    {
+        "name": "체시스",
+        "lat": 35.8546,
+        "lon": 128.8072,
+        "popup": "<a href=\"https://www.notion.so/254d2cdd2c2f46748b1dc06b628365de\" target=\"_blank\">체시스</a>",
+        "color": "gray"
+    },
+    {
+        "name": "대성파인텍",
+        "lat": 35.20737,
+        "lon": 128.6784,
+        "popup": "<a href=\"https://www.notion.so/5fe8360632f34918a0579140749444e4\" target=\"_blank\">대성파인텍</a>",
+        "color": "gray"
+    },
+    {
+        "name": "엘에스오토모티브테크놀로지스",
+        "lat": 37.3935078942772,
+        "lon": 126.959414289663,
+        "popup": "<a href=\"https://www.notion.so/62a6b6de43a34f1e9847b95b4fbc2a44\" target=\"_blank\">엘에스오토모티브테크놀로지스</a>",
+        "color": "lightred"
+    },
+    {
+        "name": "에프에스솔루션",
+        "lat": 37.4061232192454,
+        "lon": 127.085353833074,
+        "popup": "<a href=\"https://www.notion.so/cba3c5ddc7714a23b6ce7fed90c9b298\" target=\"_blank\">에프에스솔루션</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "아우토크립트",
+        "lat": 37.5300697454376,
+        "lon": 126.926245598736,
+        "popup": "<a href=\"https://www.notion.so/8183902c5bd641afa27b427748411751\" target=\"_blank\">아우토크립트</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "LG화학",
+        "lat": 37.5279271045092,
+        "lon": 126.929241174348,
+        "popup": "<a href=\"https://www.notion.so/LG-6d14c83ec36c44bab83b15d73a99983e\" target=\"_blank\">LG화학</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "대양전기공업",
+        "lat": 37.3745343892134,
+        "lon": 126.641791524203,
+        "popup": "<a href=\"https://www.notion.so/a0fa8cae8472431d86c837ad638892f5\" target=\"_blank\">대양전기공업</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "모라이",
+        "lat": 37.5073809450356,
+        "lon": 127.056821251348,
+        "popup": "<a href=\"https://www.notion.so/b861d4a73104469597785dc39c334549\" target=\"_blank\">모라이</a>",
+        "color": "gray"
+    },
+    {
+        "name": "에스제이지 중앙연구소",
+        "lat": 35.5700554069753,
+        "lon": 129.370400755657,
+        "popup": "<a href=\"https://www.notion.so/0001c8120d254343ab4c86cc45be6b4f\" target=\"_blank\">에스제이지 중앙연구소</a>",
+        "color": "lemon"
+    },
+    {
+        "name": "(주)삼현",
+        "lat": 35.2452147548722,
+        "lon": 128.620217271342,
+        "popup": "<a href=\"https://www.notion.so/736dcadc8e794766aabe2a2006d5b583\" target=\"_blank\">(주)삼현</a>",
+        "color": "gray"
+    }
+]
