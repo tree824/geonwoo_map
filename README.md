@@ -8,8 +8,8 @@
 ## 기능
 
 - **검색 기능**: 검색이 가능하도록 하여 관심 업체를 검색해 지도에서 선택할 수 있도록 구현하였습니다.
- ![image alt="대체 텍스트" width="500" height="300"](https://github.com/user-attachments/assets/33868d9d-c81f-41b1-865a-f227968c94b4)
- ![image alt="대체 텍스트" width="500" height="300"](https://github.com/user-attachments/assets/93db8983-62d6-4358-b0be-3f9c8ddebebd)
+ ![image alt="키워드 [현대] 검색" width="500" height="300"](https://github.com/user-attachments/assets/33868d9d-c81f-41b1-865a-f227968c94b4)
+ ![image alt="키워드 [엘지] 검색" width="500" height="300"](https://github.com/user-attachments/assets/93db8983-62d6-4358-b0be-3f9c8ddebebd)
 - **인터랙티브 맵**: Leaflet을 사용하여 인터랙티브 맵으로 구현하였습니다.
 - **툴팁의 회사 이름에 하이퍼링크 처리하여 노션 DB와 연동**: 마커의 툴팁에 회사 이름을 노션의 회사 정보와 하이퍼링크로 연결하여 마커의 회사 이름 클릭 시 노션에 기록된 정보를 바로 열람 가능하도록 구현하였습니다.
  ![image alt="대체 텍스트" width="500" height="300"](https://github.com/user-attachments/assets/c24ce3bf-ab53-43b6-b41e-15dcef6a76cc)
