@@ -14,7 +14,7 @@ Google Cloud Platform을 통해 배포한 웹페이지의 주소는 http://35.21
 ![image](https://github.com/user-attachments/assets/f6304bf7-4fb3-41a5-be74-99625f0a7ae6)
 ![image](https://github.com/user-attachments/assets/4b0b6e8c-9f41-42d8-a1ce-b44bd3733e8e)
 ### **인터랙티브 맵**: 
-Leaflet을 사용하여 인터랙티브 맵으로 구현하였습니다.
+Leaflet.js기반 folium 라이브러리를 사용하여 인터랙티브 맵으로 구현하였습니다.
 ### **툴팁의 회사 이름에 하이퍼링크 처리하여 노션 DB와 연동**: 
 마커의 툴팁에 회사 이름을 노션의 회사 정보와 하이퍼링크로 연결하여 마커의 회사 이름 클릭 시 노션에 기록된 정보를 바로 열람 가능하도록 구현하였습니다.
 ![image](https://github.com/user-attachments/assets/8520a1d4-6020-4fb4-802b-3d00e9a45418)
