@@ -24,8 +24,10 @@ Leaflet을 사용하여 인터랙티브 맵으로 구현하였습니다.
 ## 기술 스택
 
 - **언어**: JavaScript, HTML, CSS, Python
-- **프레임워크**: Leaflet.js
-- **서버**: Flask, GCP
+- **프레임워크**: Flask
+- **라이브러리**: folium
+- **API**: 카카오맵 API
+- **서버**: GCP
 - **데이터베이스**: Notion 내 파이썬 데이터프레임과 유사한 형태의 표
 ![image](https://github.com/user-attachments/assets/8472f95e-38c0-45d6-9d10-12a5f5db91bc)
 
